@@ -1,6 +1,6 @@
 # coding: utf-8
 
-class EmacsForMac < Formula
+class EmacsForMacos < Formula
 
   desc "GNU Emacs text editor for macOS"
   homepage "https://www.gnu.org/software/emacs/"
