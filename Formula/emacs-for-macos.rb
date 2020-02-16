@@ -58,7 +58,7 @@ class EmacsForMacos < Formula
     icons_dir = buildpath/"nextstep/Emacs.app/Contents/Resources"
 
     rm "#{icons_dir}/Emacs.icns"
-    resource("modern_icon_sexy_v2").stage do
+    resource("modern-icon-sexy-v2").stage do
       icons_dir.install Dir["*.icns*"].first => "Emacs.icns"
       ohai "Installing modern_icon_sexy_v2 icon."
     end
