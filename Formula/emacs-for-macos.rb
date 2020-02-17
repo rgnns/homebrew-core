@@ -7,7 +7,7 @@ class EmacsForMacos < Formula
   revision 1
 
   url "https://github.com/emacs-mirror/emacs.git"
-  version "27"
+  version "28"
 
   depends_on "autoconf" => :build
   depends_on "gnu-sed" => :build
