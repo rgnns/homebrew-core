@@ -6,7 +6,7 @@ class EmacsForMacos < Formula
   homepage "https://www.gnu.org/software/emacs/"
   revision 1
 
-  url "https://github.com/emacs-mirror/emacs.git", :tag => "27.0.91"
+  url "https://github.com/emacs-mirror/emacs.git", :tag => "emacs-27.0.91"
   head "https://github.com/emacs-mirror/emacs.git"
   version "27"
 
