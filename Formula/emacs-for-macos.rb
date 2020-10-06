@@ -6,9 +6,9 @@ class EmacsForMacos < Formula
   homepage "https://www.gnu.org/software/emacs/"
   revision 1
 
-  url "https://github.com/emacs-mirror/emacs.git", :tag => "emacs-27.0.91"
+  url "https://github.com/emacs-mirror/emacs.git", :tag => "emacs-27.1"
   head "https://github.com/emacs-mirror/emacs.git"
-  version "27"
+  version "27.1"
 
   depends_on "autoconf" => :build
   depends_on "gnu-sed" => :build
