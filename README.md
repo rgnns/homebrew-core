@@ -1,17 +1,17 @@
-# Emacs for macOS
+# My Homebrew formulas
 
-Install latest versions of *Emacs*.
+- *Emacs* `27.1`
 
 ## To install
 
-Tap on my `emacs-for-macos` formula.
+Tap on my `core` formulas.
 
 ```sh
-brew tap jglievano/emacs-for-macos
+brew tap jglievano/core
 ```
 
 And install...
 
 ```sh
-brew install emacs-for-macos
+brew install jglievano/core/emacs
 ```
