@@ -7,11 +7,11 @@
 Tap on my `core` formulas.
 
 ```sh
-brew tap jglievano/core
+brew tap rgnns/core
 ```
 
 And install...
 
 ```sh
-brew install jglievano/core/emacs
+brew install rgnns/core/emacs
 ```
