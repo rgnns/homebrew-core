@@ -24,7 +24,7 @@ class Emacs < Formula
   depends_on "harfbuzz" => :recommended
 
   resource "modern-icon-sexy-v2" do
-    url "http://raw.githubusercontent.com/rgnns/homebrew-emacs-for-macos/master/Assets/modern-icon-sexy-v2.icns"
+    url "http://raw.githubusercontent.com/rgnns/homebrew-core/main/Assets/modern-icon-sexy-v2.icns"
     sha256 "ecdc902435a8852d47e2c682810146e81f5ad72ee3d0c373c936eb4c1e0966e6"
   end
 
