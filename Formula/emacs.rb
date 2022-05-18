@@ -6,9 +6,9 @@ class Emacs < Formula
   homepage "https://www.gnu.org/software/emacs/"
   revision 1
 
-  url "https://github.com/emacs-mirror/emacs.git", :tag => "emacs-27.2"
+  url "https://github.com/emacs-mirror/emacs.git", :tag => "emacs-28.1"
   head "https://github.com/emacs-mirror/emacs.git"
-  version "27.2.50"
+  version "28.1.50"
 
   depends_on "autoconf" => :build
   depends_on "gnu-sed" => :build
