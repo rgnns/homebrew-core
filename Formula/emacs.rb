@@ -7,9 +7,9 @@ class Emacs < Formula
   revision 1
 
   url "https://github.com/emacs-mirror/emacs.git",
-      :revision => "1b88404acc4b6399b617dac2b14f1eaa78135670"
+      :revision => "7dc026f9ea1452ed0ca135c6b9062f778c76e6ba"
   head "https://github.com/emacs-mirror/emacs.git"
-  version "28.0.50"
+  version "28.1.50"
 
   depends_on "autoconf" => :build
   depends_on "gnu-sed" => :build
