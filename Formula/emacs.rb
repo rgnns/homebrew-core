@@ -6,8 +6,7 @@ class Emacs < Formula
   homepage "https://www.gnu.org/software/emacs/"
   revision 1
 
-  url "https://github.com/emacs-mirror/emacs.git",
-      :revision => "d7f4cc0974645cc6a295740afe85c6e21d956119"
+  url "https://github.com/emacs-mirror/emacs.git", :tag => "emacs-27.2"
   head "https://github.com/emacs-mirror/emacs.git"
   version "27.2.50"
 
